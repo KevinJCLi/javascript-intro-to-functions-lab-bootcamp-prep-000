@@ -10,6 +10,6 @@ function whisper (string) {
 
 function logShout (string) {
   string = string.toLowerCase()
-  console.log(string)
+  return console.log(string)
 }
 
